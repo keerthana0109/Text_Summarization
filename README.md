@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+</p>
+<a href="https://www.instagram.com/keerthana3359">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
 # Text_Summarization
 In this Project, we would create a Neural Network that can able to Summarize or shortent the Article using NLP
 
@@ -34,5 +41,6 @@ nltk == 3.7.0
 heapq == 0.9.3
 
 # Thank You
+
 ![image](https://user-images.githubusercontent.com/114254543/192037776-bef511f2-9c72-4498-bfa2-773371ea8599.png)
 -by Keerthana
